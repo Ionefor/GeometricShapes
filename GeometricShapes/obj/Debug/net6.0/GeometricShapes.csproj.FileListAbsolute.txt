@@ -1,0 +1,12 @@
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.deps.json
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.dll
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\bin\Debug\net6.0\GeometricShapes.pdb
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.csproj.AssemblyReference.cache
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.AssemblyInfoInputs.cache
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.AssemblyInfo.cs
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.csproj.CoreCompileInputs.cache
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.dll
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\refint\GeometricShapes.dll
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\GeometricShapes.pdb
+G:\Programming\Csharp\GeometricShapes\GeometricShapes\obj\Debug\net6.0\ref\GeometricShapes.dll
